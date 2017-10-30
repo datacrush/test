@@ -18,7 +18,7 @@ using the **postingId**.
 * [Github Account](https://github.com/)
 
 # Setup
-After installing the above softare fork this repository, clone it to your local machine
+After installing the above software fork this repository, clone it to your local machine
 and run the following commands:
 
 ```
